@@ -43,5 +43,6 @@
 ## 插入超链接
 [bilibili](https://www.bilibili.com "点击进入b站")
 
-
+## 插入图片
+![图片1](https://img0.baidu.com/it/u=1302187753,1022585962&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500 "点击加载图片")
 
